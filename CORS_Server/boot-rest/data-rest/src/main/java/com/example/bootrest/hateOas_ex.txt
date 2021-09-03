@@ -1,0 +1,14 @@
+"_links":{
+  "first":{
+    "href":"http://localhost:8089/api/boards?page=0&size=10"
+  },
+  "self":{
+    "href":"~"
+  },
+  "next":{
+    "href":"http://localhost:8089/api/boards?page=1&size=10"
+  },
+    "last":{
+    "href":"http://localhost:8089/api/boards?page=20&size=10"
+  }
+}
