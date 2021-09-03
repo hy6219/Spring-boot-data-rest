@@ -20,4 +20,7 @@ CORS를 화면단 기초를 공부할때 스쳐가듯 들었지만,
 
 - HATEOAS : 링크와 리소스로 하이퍼미디어를 지원
 
+- 스프링 시큐리티를 build.gradle에서 추가해주면, 처음에는 기본적으로 401 Unauthorized 에러가 뜨는데,
+콘솔에 뜬 비밀번호와 username으로 "user"를 입력해주면 접근가능하다! 
+
 ![Spring Data Rest](https://github.com/hy6219/TIL/blob/main/Spring/CORS/%EA%B5%90%EC%B0%A8%20%EC%B6%9C%EC%B2%98%20HTTP%20%EC%9A%94%EC%B2%AD%EC%9D%84%20%ED%97%88%EC%9A%A9%ED%95%B4%EC%A3%BC%EA%B8%B0.gif?raw=true)
